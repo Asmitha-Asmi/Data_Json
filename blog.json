@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Nineleaps",
+    "subject": "company",
+    "content": "We are enablers of Digital Transformation across industries, helping partner companies become future ready. With our unrelenting focus on problem-solving combined with unique approach to precision engineering, we help develop new as well as improve existing technology products. The agile and iterative practices enable us to accelerate product development and in turn speed-to-market. By connecting business and technology architecture we help our partner companies embrace digital, meet evolving industry needs and power business transformation at an optimized cost.  We have been working with Bay Area Startups and Fortune 500 companies and are adept in developing highly scalable and performance driven applications in Web, Mobile, and Big Data and Analytics. ",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTky3U_D7j5ZQc3Pd9NRAkUWTj4-hnmPimq1yll_kF3Y6QDMmHp"
+  },
+  {
+    "id": 2,
+    "title": "Data Science",
+    "subject": "Technology",
+    "content": "Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.[1][2] Data science is the same concept as data mining and big data: "use the most powerful hardware, the most powerful programming systems, and the most efficient algorithms to solve problems".[3] ",
+    "url": "https://miro.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Big Data",
+    "subject": "Technology",
+    "content": ""Big data" is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many cases (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.[2] Big data challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy and data source. Big data was originally associated with three key concepts: volume, variety, and velocity.[3] When we handle big data, we may not sample but simply observe and track what happens. Therefore, big data often includes data with sizes exceed the capacity of traditional usual software to process within an acceptable time. [4] and value [5] ",
+    "url": "https://d8it4huxumps7.cloudfront.net/bites/wp-content/uploads/2019/07/01130653/5d1a04a71ba77.png"
+  }
