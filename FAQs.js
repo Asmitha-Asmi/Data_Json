@@ -28,7 +28,7 @@ class FAQs extends Component {
   Insert_Data_Into_MySQL = () =>
   {
      
-       return fetch('http://0a462979.ngrok.io/faq/display',
+       return fetch('http://181d70c9.ngrok.io/faq/display',
           {
               method: 'POST',
               headers: 
@@ -59,7 +59,7 @@ class FAQs extends Component {
 
     
     componentDidMount() {
-      return fetch("http://0a462979.ngrok.io/faq/displayall")
+      return fetch("http://181d70c9.ngrok.io/faq/distinct")
       .then((response) => response.json())
       .then((responseJson)=>{
           this.setState({
@@ -113,33 +113,47 @@ class FAQs extends Component {
         </View>)
      });
      
+    let data= this.state.dataSource.map((val)=>{
+      return(
+        <View>
+          <Text>{val}</Text>
+        </View>
+      )
+     });
+     
 
 
      return(
     
           <View >
+          
           <ScrollView>
-          <View style={styles.MainContainer}>
- 
- <Picker
-   selectedValue={this.state.PickerValueHolder}
-   onValueChange={(itemValue, itemIndex) => this.setState({PickerValueHolder: itemValue})} >
+          <View style={styles.MainContainer}> 
+          <Picker
+                        selectedValue={this.state.PickerValueHolder}
+                        onValueChange={(itemValue, itemIndex) => this.setState({PickerValueHolder: itemValue})} >
+                        
+        {  this.state.dataSource.map( (val) => (
+                       <Picker.Item label={val}  value={val}  />
+                    ))
+        }
+                                </Picker>
 
-   { this.state.dataSource.map((val, key)=>(
-   <Picker.Item label={val.category} value={val.category} key={key} />)
-   )}
+          {/* <Picker
+          selectedValue={this.state.PickerValueHolder}
+          onValueChange={(itemValue, itemIndex) => this.setState({PickerValueHolder: itemValue})} >
+          <Picker.Item label={data}  value={data}  />
+          </Picker>  */}
 
-   
+ {/* <Text>{this.state.dataSource}</Text>  */}
 
- </Picker>
+          <Button title="Apply" onPress={ this.Insert_Data_Into_MySQL } />
 
- <Button title="Apply" onPress={ this.Insert_Data_Into_MySQL } />
+          </View>
 
-</View>
-
-       {faq}
-        </ScrollView>
-      </View>
+          {faq}
+          </ScrollView>
+          </View>
     );
   }
        
