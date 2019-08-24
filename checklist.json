@@ -1,0 +1,86 @@
+[
+    {
+        "checklist_name": "",
+        "status": null,
+        "data": []
+    },
+    {
+        "checklist_name": "check2",
+        "status": null,
+        "data": [
+            {
+                "order": "heyyyy",
+                "description": "enter your 12th marks",
+                "document_name": "12th mark",
+                "document_status": false
+            },
+            {
+                "order": "2",
+                "description": "your photo",
+                "document_name": "Photo",
+                "document_status": true
+            }
+        ]
+    },
+    {
+        "checklist_name": "check4",
+        "status": null,
+        "data": [
+            {
+                "order": "heyyyy",
+                "description": "enter your aadhar card",
+                "document_name": "Pan",
+                "document_status": true
+            },
+            {
+                "order": "2",
+                "description": "fh",
+                "document_name": "Aadhar card",
+                "document_status": false
+            }
+        ]
+    },
+    {
+        "checklist_name": "checklist1",
+        "status": null,
+        "data": [
+            {
+                "order": null,
+                "description": null,
+                "document_name": "Adharcar",
+                "document_status": true
+            },
+            {
+                "order": null,
+                "description": null,
+                "document_name": "Pancard",
+                "document_status": true
+            },
+            {
+                "order": null,
+                "description": null,
+                "document_name": "Driving Licence",
+                "document_status": false
+            }
+        ]
+    },
+    {
+        "checklist_name": "Test checklist",
+        "status": null,
+        "data": [
+            {
+                "order": "1",
+                "description": "Description",
+                "document_name": "New document",
+                "document_status": true
+            },
+            {
+                "order": "2",
+                "description": "Description",
+                "document_name": "Document 2",
+                "document_status": false
+            }
+        ]
+    }
+]
+
