@@ -1,0 +1,83 @@
+/* .column-layout */
+/* { */
+/* margin-top: 10rem; */
+/* margin-left: 5rem; */
+/* } */
+/* .left-coloumn{
+    position: relative;
+    float: left;
+    width: 50%;
+    background-color: aqua;
+}
+.right-coloumn{
+    position: relative;
+    overflow-y: auto;
+    height: 90%;
+    float: left;
+    width: 50%;
+    padding-left: 2px;
+    background-color: blue;
+} */
+
+
+/* Pen-specific styles */
+/* * {
+    box-sizing: border-box;
+  } */
+  html, body, section, div {
+    height: 100%;
+    width: 100%;
+    
+  }
+  
+  /* body { 
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+    line-height: 150%;
+    text-align: center;
+    text-shadow: 0 2px 2px #b6701e;
+  }
+   */
+   .abc{
+    background: url('../Component/back.jpeg');
+    background-size: cover;
+   }
+  section {
+    width: 100%;
+  }
+  
+  
+
+ 
+  /* Pattern styles */
+  .left-half {
+  
+    /* background-color: #ff9e2c; */
+    float: left;
+    width: 50%;
+    
+  }
+  .right-half {
+    
+    overflow: auto;
+    /* background-color: #b6701e; */
+    height: 84%;
+    float: left;
+    width: 50%;
+  }
+  .cardView{
+    width: fit-content
+  }
+  .checklistCard{
+    height:'auto';
+    background-color:'#e6e6e6';
+   
+  }
+  .textStyle{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 10px;
+    margin: 10px;
+  }
+  
