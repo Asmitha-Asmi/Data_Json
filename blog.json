@@ -3,28 +3,28 @@
     "id": 2,
     "title": "Nineleaps",
     "subject": "Company",
-    "content": "<p>Nineleaps Technology Solutions Private Limited is a Private incorporated on 06 January 2014. It is classified as Non-govt company and is registered at Registrar of Companies, Bangalore. Its authorized share capital is Rs. 500,000 and its paid up capital is Rs. 500,000. It is inolved in Software publishing, consultancy and supply</p>",
+    "textAreaContent": "<p>Nineleaps Technology Solutions Private Limited is a Private incorporated on 06 January 2014. It is classified as Non-govt company and is registered at Registrar of Companies, Bangalore. Its authorized share capital is Rs. 500,000 and its paid up capital is Rs. 500,000. It is inolved in Software publishing, consultancy and supply</p>",
     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_c4p_T17UhvNXoC__nbimajN6E6RdW8X5z4Y8FM-txnHe2UQ"
   },
   {
     "id": 3,
     "title": "Data Science",
     "subject": "Technology",
-    "content": "<p><b>Data science</b> is a <em>multi-disciplinary field</em> that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.Data science is the same concept as <u>data mining and big data</u>: use the most powerful hardware, the most powerful programming systems, and <b>the most efficient algorithms to solve problems</b><p>",
+    "textAreaContent": "<p><b>Data science</b> is a <em>multi-disciplinary field</em> that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.Data science is the same concept as <u>data mining and big data</u>: use the most powerful hardware, the most powerful programming systems, and <b>the most efficient algorithms to solve problems</b><p>",
     "url": "https://i1.wp.com/ictkerala.org/wp-content/uploads/2018/12/DATA-SCIENCE-768x384.png?ssl=1"
   },
   {
     "id": 4,
     "title": "Big Data",
     "subject": "Technology",
-    "content": "<p>Big data is a term that describes the large volume of data – both structured and unstructured – that inundates a business on a day-to-day basis. But it’s not the amount of data that’s important. It’s what organizations do with the data that matters. Big data can be analyzed for insights that lead to better decisions and strategic business moves.</p> ",
+    "textAreaContent": "<p>Big data is a term that describes the large volume of data – both structured and unstructured – that inundates a business on a day-to-day basis. But it’s not the amount of data that’s important. It’s what organizations do with the data that matters. Big data can be analyzed for insights that lead to better decisions and strategic business moves.</p> ",
     "url": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2018/08/big-data.jpg"
   },
   {
     "id": 5,
     "title": "Think Green And Recycle More",
     "subject": "General",
-    "content": "<p>To ensure a greener tomorrow a growing number of nations across the world are taking significant steps towards waste management and developing sources for renewable energy. USA recycles about 35% of Municipal Solid Waste (MSW) and 13% is combusted for energy production. On the other hand, Europe is targeting to recycle 65% by 2030.In addition, as we continue to face growing environmental challenges and air pollution, various non-governmental organizations and civil societies have come together to raise environmental awareness all around the world. The issue has also garnered considerable media attention and enthusiasm amongst prominent and influential people across walks of life, advocating green initiatives and urging people to adopt sustainable practices.</p>",
+    "textAreaContent": "<p>To ensure a greener tomorrow a growing number of nations across the world are taking significant steps towards waste management and developing sources for renewable energy. USA recycles about 35% of Municipal Solid Waste (MSW) and 13% is combusted for energy production. On the other hand, Europe is targeting to recycle 65% by 2030.In addition, as we continue to face growing environmental challenges and air pollution, various non-governmental organizations and civil societies have come together to raise environmental awareness all around the world. The issue has also garnered considerable media attention and enthusiasm amongst prominent and influential people across walks of life, advocating green initiatives and urging people to adopt sustainable practices.</p>",
     "url": "https://www.nineleaps.com/wp-content/uploads/2018/07/green.jpeg"
   }
 ]
